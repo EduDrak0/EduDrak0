@@ -1,3 +1,23 @@
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">-Python Developer</p>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
@@ -7,5 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduDrak0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduDrak0&radius=16&theme=minimal&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/EduDrak0/EduDrak0/output/snake.svg" alt="Snake animation" />
 
 ###
